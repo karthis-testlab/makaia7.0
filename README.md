@@ -48,8 +48,7 @@ uibank.password=**uibank-api-password**
 <dependencies>
     <dependency>
         <groupId>io.qameta.allure</groupId>
-        <artifactId>allure-testng</artifactId>
-        <scope>test</scope>
+        <artifactId>allure-testng</artifactId>        
     </dependency>
 </dependencies>
 ```
